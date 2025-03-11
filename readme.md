@@ -33,11 +33,11 @@
 5.  Compare & pull request
     (Merge 된 후, main 브랜치로 이동하여 upstream의 커밋 내역을 가져와서 동기화)
 
-        ```
-        $ git fetch upstream
-        $ git merge upstream/main
-        $ git push
-        ```
+    ```
+    $ git fetch upstream
+    $ git merge upstream/main
+    $ git push
+    ```
 
 ## ✅ 커밋 규칙
 

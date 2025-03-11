@@ -40,7 +40,7 @@
 
 - 제목 & 설명 작성 후 `Create pull request` 클릭 (PR규칙 참고)
 
-6. Merge 된 후, main 브랜치로 이동하여 upstream의 커밋 내역을 가져와서 동기화
+6. Merge 된 후, master 브랜치로 이동하여 upstream의 커밋 내역을 가져와서 동기화
 
    ```
    $ git checkout master
@@ -86,7 +86,7 @@
     <tr>
       <td><a href="https://github.com/2sseul">@2sseul</a></td>
       <td><a href="https://github.com/todayiswindy">@todayiswindy</a></td>
-      <td><a herf="https://github.com/chadireoroonu">@chadireoroonu</a></td>
-      <td><a herf="https://github.com/mimmmji">@mimmmji</a></td>
+      <td><a href="https://github.com/chadireoroonu">@chadireoroonu</a></td>
+      <td><a href="https://github.com/mimmmji">@mimmmji</a></td>
     </tr>
   </table>

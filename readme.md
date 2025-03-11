@@ -22,22 +22,32 @@
     $ git checkout -b 브랜치이름
     ```
 
-4.  Read Me 생성 혹은 변경 후,
+4.  각자 파일 내 코드 추가 후,
 
     ```
     $ git add .
     $ git commit -m "커밋 규칙을 지켜서 등록해주세요."
-    $ git push origin 브랜치이름
+    $ git push origin 내 브랜치
     ```
 
 5.  Compare & pull request
-    (Merge 된 후, main 브랜치로 이동하여 upstream의 커밋 내역을 가져와서 동기화)
 
-    ```
-    $ git fetch upstream
-    $ git merge upstream/main
-    $ git push
-    ```
+- `Compare & pull request` 버튼 클릭
+
+- base → `upstream/master`
+
+- compare → `내 브랜치`
+
+- 제목 & 설명 작성 후 `Create pull request` 클릭 (PR규칙 참고)
+
+6. Merge 된 후, main 브랜치로 이동하여 upstream의 커밋 내역을 가져와서 동기화
+
+   ```
+   $ git checkout master
+   $ git fetch upstream
+   $ git merge upstream/master
+   $ git push origin master
+   ```
 
 ## ✅ 커밋 규칙
 
@@ -56,6 +66,14 @@
   - [SEA] - 삼성SW Expert Academy
   - [ETC] - 그외
 
+## ⚠️ PR 규칙
+
+```
+[날짜] {플랫폼 or 언어} {문제 제목} - {기타 내용}
+```
+
+- 💡 예시: [2557] PGS 다트 게임 - 1문제
+
 ## ✨ 참여인원
 
 <table style="text-align:center">
@@ -63,12 +81,12 @@
       <th scope="col"><img src="https://avatars.githubusercontent.com/u/109618184?v=4" width="200" height="200"/></td>
       <th scope="col"><img src="https://avatars.githubusercontent.com/u/72553506?v=4" width="200" height="200" /></td>
       <th scope="col"><img src="https://avatars.githubusercontent.com/u/122517823?v=4" width="200" height="200" /></td>
-      <th scope="col">--</td>
+      <th scope="col"><img src="https://avatars.githubusercontent.com/u/117897253?v=4" width="200" height="200" /></td>
     </tr>
     <tr>
       <td><a href="https://github.com/2sseul">@2sseul</a></td>
       <td><a href="https://github.com/todayiswindy">@todayiswindy</a></td>
       <td><a herf="https://github.com/chadireoroonu">@chadireoroonu</a></td>
-      <td>남</td>
+      <td><a herf="https://github.com/chadireoroonu">@mimmmji</a></td>
     </tr>
   </table>

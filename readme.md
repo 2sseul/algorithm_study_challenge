@@ -58,6 +58,17 @@
 
 ## ✨ 참여인원
 
-| 제목 | 내용    | 설명    | 하이    |
-| ---- | ------- | ------- | ------- |
-|      | 테스트2 | 테스트3 | 테스트4 |
+<table style="text-align:center">
+    <tr>
+      <th scope="col"><img src="https://avatars.githubusercontent.com/u/109618184?v=4" width="200" height="200"/></td>
+      <th scope="col"><img src="https://avatars.githubusercontent.com/u/72553506?v=4" width="200" height="200" /></td>
+      <th scope="col"><img src="https://avatars.githubusercontent.com/u/122517823?v=4" width="200" height="200" /></td>
+      <th scope="col">--</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/2sseul">@2sseul</a></td>
+      <td><a href="https://github.com/todayiswindy">@todayiswindy</a></td>
+      <td><a herf="https://github.com/chadireoroonu">@chadireoroonu</a></td>
+      <td>남</td>
+    </tr>
+  </table>

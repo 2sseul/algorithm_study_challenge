@@ -87,6 +87,6 @@
       <td><a href="https://github.com/2sseul">@2sseul</a></td>
       <td><a href="https://github.com/todayiswindy">@todayiswindy</a></td>
       <td><a herf="https://github.com/chadireoroonu">@chadireoroonu</a></td>
-      <td><a herf="https://github.com/chadireoroonu">@mimmmji</a></td>
+      <td><a herf="https://github.com/mimmmji">@mimmmji</a></td>
     </tr>
   </table>

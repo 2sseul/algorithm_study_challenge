@@ -2,7 +2,8 @@
 
 - 아래 알고리즘 목록에서 문제를 하나 골라 푼 뒤, 코드링크와 걸린시간 확인란을 채워주면 됩니다.
 - 예시
-    <table>
+  
+  <table>
         <tr>
             <th>플랫폼</th>
             <th>난이도</th>
@@ -245,9 +246,9 @@
         <td>골드3</td>
         <td>16236</td>
         <td><a href="https://www.acmicpc.net/problem/16236">아기 상어</td>
-        <td></td>
-        <td></td>
-        <td></td>
+        <td><a href="./16236.py">🔗</td>
+        <td>BFS</td>
+        <td>✅</td>
     </tr>
     <tr>
         <td>[BOJ]</td>

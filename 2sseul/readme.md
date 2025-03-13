@@ -17,7 +17,7 @@
             <td>브론즈5</td>
             <td>2557</td>
             <td><a href="https://www.acmicpc.net/problem/2557">Hello World</td>
-            <td><a href="./[03.13] BOJ_Hello World.java">🔗</td>
+            <td><a href="./BOJ_Hello World.java">🔗</td>
             <td>03.13</td>
             <td>✅</td>
         </tr>

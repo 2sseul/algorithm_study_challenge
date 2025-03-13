@@ -5,11 +5,11 @@
     <table>
         <tr>
             <th>플랫폼</th>
-            <th>문제</th>
             <th>난이도</th>
+            <th>문제</th>
+            <th>문제링크</th>
+            <th>내 코드</th>
             <th>알고리즘 분류</th>
-            <th>코드</th>
-            <th>날짜</th>
             <th>확인</th>
         </tr>
         <tr>
@@ -18,7 +18,7 @@
             <td>2557</td>
             <td><a href="https://www.acmicpc.net/problem/2557">Hello World</td>
             <td><a href="./BOJ_Hello World.java">🔗</td>
-            <td>03.13</td>
+            <td>구현</td>
             <td>✅</td>
         </tr>
     </table>
@@ -26,11 +26,11 @@
 <table>
     <tr>
         <th>플랫폼</th>
-        <th>문제</th>
         <th>난이도</th>
+        <th>문제</th>
+        <th>문제링크</th>
+        <th>내 코드</th>
         <th>알고리즘 분류</th>
-        <th>코드</th>
-        <th>날짜</th>
         <th>확인</th>
     </tr>
     <tr>

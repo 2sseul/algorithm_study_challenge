@@ -137,9 +137,9 @@
         <td>실버1</td>
         <td>14889</td>
         <td><a href="https://www.acmicpc.net/problem/14889">스타트와링크</td>
-        <td></td>
-        <td></td>
-        <td></td>
+        <td><a href="./BOJ_14889.java">🔗</a></td>
+        <td>백트래킹</td>
+        <td>✅</td>
     </tr>
     <tr>
         <td>[BOJ]</td>
